@@ -15,7 +15,7 @@ repository               : "TianYu-Geng/TianYu-Geng.github.io"
 
 author:
   # Biographic information
-  avatar           : "personal.jpeg"
+  avatar           : "https://raw.githubusercontent.com/TianYu-Geng/TianYu-Geng.github.io/main/images/personal.jpeg"
   name             : "TianYu-Geng (耿天羽)"
   pronouns         : # example: "she/her"  
   bio              : "Or just call me Ethan Geng"

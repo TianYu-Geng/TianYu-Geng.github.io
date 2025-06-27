@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  chinese_name        : "TianYu-Geng(耿天羽)"
+  english_name        : "Ethan Geng"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
+  email       : "qinghuan_tiana@163.com"
+  bio         : "I'm dedicated to advancing medical micro/nanorobotics, Build research that truly matters — not just publishable, but deployable, trustworthy, and socially meaningful."
+  avatar      : "personal.jpeg"
   google_plus : "Name"

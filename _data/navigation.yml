@@ -15,7 +15,10 @@ main:
     url: /Academic_Exchanges/    
 
   - title: "Awards"
-    url: /Awards/    
+    url: /Awards/  
+
+  - title: "Projects"
+    url: /Projects/
       
   - title: "Moments"
     url: /Moments/

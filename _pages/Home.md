@@ -122,7 +122,7 @@ redirect_from:
 
         <li><strong>May. 2023:</strong> Awarded the <strong><em style="color: #e74c3c;">National Third Prize (4th Place)</em></strong> in the Aerial Robotics Track of the China Robotics Skills Competition (National Level).</li>
 
-        <li><strong>May. 2023:</strong> As <strong>Principal Investigator</strong>, led the project <em>"Design and Implementation of a Deep Learning Test Suite Quality Evaluation System Based on Mutation Testing"</em> under the <strong>National Undergraduate Innovation and Entrepreneurship Program</strong>. The project passed the mid-term review and was officially recognized as <strong><em style="color: #e74c3c;">National-Level</em></strong> — one of <strong><em style="color: #e74c3c;">only 5 selected </em></strong> within the School of Computer and Information Engineering (Artificial Intelligence Division).</li>
+        <li><strong>May. 2023:</strong> As <strong>Principal Investigator</strong>, led the project <em>"Design and Implementation of a Deep Learning Test Suite Quality Evaluation System Based on Mutation Testing"</em> under the <strong>National Undergraduate Innovation and Entrepreneurship Program</strong>. The project passed the mid-term review and was officially recognized as <strong><em style="color: #e74c3c;">National-Level</em></strong> — one of <strong><em style="color: #e74c3c;">only 5 selected </em></strong> within the College of Computer and Information Engineering (College of Artificial Intelligence).</li>
 
       </ul>
     </div>
@@ -180,4 +180,3 @@ redirect_from:
 
 ### 🌱 Visitor Count 🌱
 <img src="https://profile-counter.glitch.me/TianYu-Geng/count.svg" />
-

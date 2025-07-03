@@ -12,11 +12,11 @@ author_profile: true
   <!-- 左侧嵌入区块 -->
   <div style="flex: 1; min-width: 300px;">
 
-    <!-- 机试笔记 -->
+    <!-- 机器人笔记 -->
     <div id="jishi" style="border: 1px solid #dcdcdc; border-radius: 10px; padding: 16px; margin-bottom: 40px; background-color: #fdfdfd;">
-      <h2 style="color: #3c3cfc;">📘 机试笔记</h2>
+      <h2 style="color: #3c3cfc;">📘 机器人学习笔记</h2>
       <div style="position: relative; width: 100%; height: 90vh;">
-        <iframe src="https://www.yuque.com/decisive-p5kgf/jishi" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.yuque.com/decisive-p5kgf/robot" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
 

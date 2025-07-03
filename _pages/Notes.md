@@ -45,7 +45,7 @@ author_profile: true
     <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px;">
       <div style="font-weight: bold; margin-bottom: 10px; color: #6c63ff;">笔记导航</div>
       <div style="text-align: center;">
-        <a href="#jishi" style="display: block; margin-bottom: 6px;">→ 机试笔记</a>
+        <a href="#jishi" style="display: block; margin-bottom: 6px;">→ 机器人学习笔记</a>
         <!-- 
         <a href="#suanfa" style="display: block; margin-bottom: 6px;">→ 算法专题</a>
         <a href="#code" style="display: block; margin-bottom: 6px;">→ 编程范式</a>

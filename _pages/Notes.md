@@ -10,7 +10,7 @@ author_profile: true
 <div style="display: flex; gap: 40px;">
 
   <!-- 左侧嵌入区块 -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 400px;">
 
     <!-- 机器人笔记 -->
     <div id="jishi" style="border: 1px solid #dcdcdc; border-radius: 10px; padding: 16px; margin-bottom: 40px; background-color: #fdfdfd;">

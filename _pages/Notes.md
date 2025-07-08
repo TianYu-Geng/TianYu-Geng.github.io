@@ -41,7 +41,7 @@ author_profile: true
   </div>
 
   <!-- 右侧导航栏 -->
-  <div style="width: 200px; position: sticky; top: 70px; align-self: flex-start; height: fit-content;" class="year-nav">
+  <div style="width: 20  0px; position: sticky; top: 70px; align-self: flex-start; height: fit-content;" class="year-nav">
     <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px;">
       <div style="font-weight: bold; margin-bottom: 10px; color: #6c63ff;">笔记导航</div>
       <div style="text-align: center;">

@@ -178,5 +178,3 @@ redirect_from:
   <p><b style="color:#6c63ff;">✉️ Email:</b> <a href="mailto:qinghuan_tian@163.com" style="color:#34495e; text-decoration: none;">qinghuan_tian@163.com</a></p>
 </div>
 
-### 🌱 Visitor Count 🌱
-<img src="https://profile-counter.glitch.me/TianYu-Geng/count.svg" />
